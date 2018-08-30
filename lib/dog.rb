@@ -1,5 +1,5 @@
 class Dog 
 end 
 
-bark = Dog.new 
+def bark 
 puts "Woof!"
